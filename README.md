@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Anirudh Yallapragada 👨‍💻
 
-<img alt='computer Gif' src='https://i.redd.it/vmfhfwhb8ll11.gif' width='300' height='300' align='right' style='padding:0; margin:0;'/>
+<img alt='computer Gif' src='https://media.tenor.com/uPKBSSYU8BcAAAAj/computer-pixel.gif' width='300' height='300' align='right' style='padding:0; margin:0;'/>
 
 Computer Science major based in Chicago 🚀  
 Full-stack developer with a strong interest in computer graphics and systems.  
