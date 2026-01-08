@@ -15,7 +15,7 @@ Some languages and tools I've picked up throughout my journey
   <tr>
     <td valign="top" width="50%">
       <h3>🧠 Backend</h3>
-      <p>
+      <p style="white-space: nowrap;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="45"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
@@ -48,6 +48,7 @@ Some languages and tools I've picked up throughout my journey
       <h3>🗄️ Databases</h3>
       <p>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45"/>
       </p>
     </td>
   </tr>
