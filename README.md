@@ -15,14 +15,14 @@ Some languages and tools I've picked up throughout my journey
   <tr>
     <td valign="top" width="50%">
       <h3>🧠 Backend</h3>
-      <p style="white-space: nowrap;">
+      <div>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="42"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="42"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="42"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42"/>
-      </p>
+      </div>
     </td>
     <td valign="top" width="50%">
       <h3>🎨 Frontend</h3>
