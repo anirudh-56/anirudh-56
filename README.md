@@ -1,6 +1,7 @@
 # 👋 Hello! I'm Anirudh Yallapragada 👨‍💻
 
-<img alt="computer gif" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c2046041-a08f-46bd-85d1-27ffbe7b4585/dbo9hr9-d1c0ac4a-669b-4ff3-b44b-6573079f1867.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jMjA0NjA0MS1hMDhmLTQ2YmQtODVkMS0yN2ZmYmU3YjQ1ODUvZGJvOWhyOS1kMWMwYWM0YS02NjliLTRmZjMtYjQ0Yi02NTczMDc5ZjE4NjcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.E-tipqN2UJ9rxPTuZLerkZPjzE7wnJ5T5vxX2TDO_gI" width="300" align="right" />
+<img alt="computer gif" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c2046041-a08f-46bd-85d1-27ffbe7b4585/dbo9hr9-d1c0ac4a-669b-4ff3-b44b-6573079f1867.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jMjA0NjA0MS1hMDhmLTQ2YmQtODVkMS0yN2ZmYmU3YjQ1ODUvZGJvOWhyOS1kMWMwYWM0YS02NjliLTRmZjMtYjQ0Yi02NTczMDc5ZjE4NjcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.E-tipqN2UJ9rxPTuZLerkZPjzE7wnJ5T5vxX2TDO_gI" 
+width='150' height='150' align='right' style='padding:0; margin:0;'/>
 
 Computer Science major based in Chicago 🚀 Full-stack developer with a strong interest in computer graphics and systems. I enjoy building things and continuously learning.
 
