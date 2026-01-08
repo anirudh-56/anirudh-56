@@ -11,9 +11,6 @@ Computer Science major based in Chicago 🚀 Full-stack developer with a strong 
 ## ⚡ Tech Stack
 Some languages and tools I've picked up throughout my journey
 
-## ⚡ Tech Stack
-Some languages and tools I've picked up throughout my journey
-
 <table cellspacing="0" cellpadding="0">
   <tr>
     <td valign="top" width="50%" style="padding: 12px 16px;">
