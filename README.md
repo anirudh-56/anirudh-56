@@ -16,8 +16,8 @@ Some languages and tools I've picked up throughout my journey
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h3>🧠 Backend</h3>
-      <p>
+      <h3 style="margin: 0 0 6px 0;">🧠 Backend</h3>
+      <p style="margin: 0;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="42"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="42"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="42"/>
