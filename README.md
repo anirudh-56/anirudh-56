@@ -2,7 +2,9 @@
 
 <img alt="computer gif" src="Computer.gif" width='150' height='150' align='right' style='padding:0; margin:0;'/>
 
-Computer Science major based in Chicago 🚀 Full-stack developer with a strong interest in computer graphics and systems. I enjoy building things and continuously learning.
+Computer Science major based in Chicago 🚀 
+Full-stack developer with a strong interest in computer graphics and systems. 
+I enjoy building things and continuously learning.
 
 - Previously employed @ [Walgreens](https://corporate.walgreens.com/) as a Software Engineering Intern  
 - Robotics Research @ UIC  
